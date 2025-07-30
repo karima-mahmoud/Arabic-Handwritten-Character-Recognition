@@ -57,9 +57,10 @@ Each row = 1024 pixel values (flattened 32×32 image). Labels are integers (0–
 
 ### 📊 Visualization:
 
-| Training & Validation Accuracy | ROC Curve |
+| Training & Validation Accuracy  |
 
-| ![acc_loss](<img width="864" height="477" alt="image" src="https://github.com/user-attachments/assets/2659e898-bbb0-485a-9f65-9ab778ed56a3" />
+| ![acc_](<img width="619" height="481" alt="image" src="https://github.com/user-attachments/assets/96a6da7c-2a8b-4ccc-99cd-0f7248016f7e" />
+>
 
 #
 ---
